@@ -2,3 +2,6 @@ name = "EasySizes"
 uuid = "ee48c83f-72e2-42e0-a14c-b8a7a23e3c53"
 authors = ["SixZero <havliktomi@hotmail.com>"]
 version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
